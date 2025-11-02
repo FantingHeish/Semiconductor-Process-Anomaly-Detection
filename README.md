@@ -1,4 +1,4 @@
-## Semiconductor-Process-Anomaly-Detection(半導體製程異常偵測)
+## Semiconductor-Process-Anomaly-Detection
 
 使用 XGBoost、Isolation Forest、Autoencoder、VAE 等模型偵測半導體製程資料中的潛在異常樣本與感測器異常行為，協助提升製程良率與穩定性。
 
