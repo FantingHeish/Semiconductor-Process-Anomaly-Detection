@@ -11,4 +11,3 @@
 ### 專案檔案說明
 - `Semiconductor_Anomaly_Detection.ipynb`：主要模型訓練與分析流程  
 - `requirements.txt`：環境套件清單  
-- `model_results.png`：結果視覺化圖表  
