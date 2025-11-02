@@ -4,7 +4,6 @@
 
 ### 專案簡介
 本專案以 UCI SECOM 半導體製程資料集為基礎，建立多種監督式與非監督式異常偵測模型，用於辨識製程中可能造成良率下降的異常訊號來源。
-（https://www.kaggle.com/code/fangtinggg/uci-semcom-pred）
 
 ### 技術架構
 - **開發框架：** Scikit-learn、TensorFlow  
