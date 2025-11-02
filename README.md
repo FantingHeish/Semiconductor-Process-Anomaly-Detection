@@ -11,14 +11,6 @@
 - **模型：** XGBoost、Isolation Forest、Autoencoder、VAE  
 - **評估指標：** ROC-AUC、PR-AUC、Accuracy
 
-### 模型效能
-| 模型 | ROC-AUC | PR-AUC | 
-|------|----------|--------|
-| XGBoost | 0.7283 | 0.1987 |
-| Isolation Forest | 0.5830 | 0.0905 |
-| Autoencoder | 0.5553 | 0.0963 |
-| VAE | 0.5560 | 0.0948 |
-
 ### 專案檔案說明
 - `Semiconductor_Anomaly_Detection.ipynb`：主要模型訓練與分析流程  
 - `requirements.txt`：環境套件清單  
