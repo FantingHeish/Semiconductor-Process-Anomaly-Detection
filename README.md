@@ -11,3 +11,5 @@
 ### 專案檔案說明
 - `Semiconductor_Anomaly_Detection.ipynb`：主要模型訓練與分析流程  
 - `requirements.txt`：環境套件清單
+
+Link to DataSet: https://www.kaggle.com/datasets/paresh2047/uci-semcom/data
